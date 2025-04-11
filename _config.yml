@@ -1,4 +1,10 @@
 # trying to setup _config.yml file. Let's hope this works!
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [May the Force be with Us]
+description: [What do you want to know?]
+
 
 
