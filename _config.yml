@@ -2,8 +2,8 @@
 title: My Blog
 description: My thoughts, tutorials, and updates
 
-theme: jekyll-theme-minimal
-# theme: minimal-mistakes-jekyll
+# theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 # remote_theme: "mmistakes/minimal-mistakes@4.26.2
 
