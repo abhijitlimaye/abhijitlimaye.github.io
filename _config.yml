@@ -6,6 +6,10 @@ description: My thoughts, tutorials, and updates.
 theme: minimal-mistakes-jekyll
 # remote_theme: mmistakes/minimal-mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.26.2
+show_sidebar: true
+sidebar:
+  nav: "main"
+
 
 plugins:
   - jekyll-include-cache
