@@ -1,4 +1,7 @@
 # trying to setup _config.yml file. Let's hope this works!
+title: My Blog
+description: My thoughts, tutorials, and updates.
+
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
