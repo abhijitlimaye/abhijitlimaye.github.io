@@ -2,13 +2,13 @@
 layout: single
 title: "Agent Smith: The Matrix Got It Right"
 date: 2025-04-12
-categories: [AI, Agentic Systems, Pop Culture]
+categories: [AI, Agentic Systems]
 tags: [AI, Agentic AI, Matrix, Agent Smith, Autonomous Agents]
 author_profile: true
 ---
 
 
-“Agent Smith” is the real AI Agent. Let me explain why I say this.
+“Agent Smith” is the real AI Agent. 
 
 There are more than coincidental similarities between what Agent Smith was and how the new-age “Agentic AI” systems are being developed. To that end, the movie *The Matrix* really seems prophetic in predicting the development of AI Agentic systems.
 
