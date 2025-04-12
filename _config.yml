@@ -1,6 +1,6 @@
 # trying to setup _config.yml file. Let's hope this works!
 title: My Blog
-description: My thoughts, tutorials, and updates.
+description: My thoughts, tutorials, and updates
 
 # theme: jekyll-theme-minimal
 theme: minimal-mistakes-jekyll
@@ -9,8 +9,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2
 show_sidebar: true
 sidebar:
   nav: "main"
-
-
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
