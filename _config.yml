@@ -1,12 +1,12 @@
 # trying to setup _config.yml file. Let's hope this works!
 title: My Blog
-description: My thoughts, tutorials, and updates
+description: Tech, AI, Cybersecurity .. and anything in between! 
 
 # theme: jekyll-theme-minimal
 # theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 # remote_theme: "mmistakes/minimal-mistakes@4.26.2
-minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", etc.
+minimal_mistakes_skin: "air" # Options: "air", "aqua", "contrast", "dark", etc.
 
 #enable sidebar
 
