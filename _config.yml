@@ -4,8 +4,11 @@ description: My thoughts, tutorials, and updates
 
 # theme: jekyll-theme-minimal
 theme: minimal-mistakes-jekyll
-# remote_theme: mmistakes/minimal-mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.26.2
+remote_theme: mmistakes/minimal-mistakes
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2
+
+#enable sidebar
+
 show_sidebar: true
 sidebar:
   nav: "main"
