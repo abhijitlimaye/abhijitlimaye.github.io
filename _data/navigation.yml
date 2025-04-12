@@ -12,4 +12,4 @@ main:
     url: /blog/
     children:
       - title: "Agent Smith: The Real AI Agent"
-        url: /blog/2025/04/12/ai/agentic%20systems/2025/04/12/Agent_smith
+        url: /blog/ai/agentic%20systems/2025/04/12/Agent_smith.html
