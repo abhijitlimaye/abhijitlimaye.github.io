@@ -7,7 +7,7 @@ tags: [vibe coding, chatGPT, flutter, productivity]
 ---
 
 
-If you can’t code yourself, you won’t get too far with vibe coding!
+*If you can’t code yourself, you won’t get too far with vibe coding!*
 
 Let me start the blog from the “lessons learned” and some “pro tips” before diving into my experience of vibe-coding. If you are short on time (or attention span), just the points below are a good starting point.
 
