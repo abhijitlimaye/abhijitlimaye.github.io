@@ -10,7 +10,4 @@ main:
 
   - title: "Blog"
     url: /blog/
-    children:
-      - title: "Agent Smith: The Real AI Agent"
-        url: /ai/agentic%20systems/2025/04/12/Agent_smith.html
 
