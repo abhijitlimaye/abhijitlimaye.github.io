@@ -88,7 +88,7 @@ Some feature additions went smoothly:
 ### Hitting the SDLR
 
 As the code grew, chat interactions grew with it. Eventually, ChatGPT responses slowed and regressed.  
-It’s essentially around this time that chatGPT hit SDLR
+It’s essentially around this time that chatGPT hit **SDLR**
 
 When I could not get around this problem, .. frustrated.. I simply stopped for a day. 
 When I thought over it and realized that all this while, I was working in a ‘slave mode’ where I was just trying to follow what AI (master) was telling me.
