@@ -114,7 +114,7 @@ But it got me to a good working state.
 
 - Same goes for commas and semicolons. I still can’t tell where and how these are used in Flutter code 🙁  
 - As for the code structure — the less I talk, the better. It completely hits my sense of *code aesthetics*, if you know what I mean!
-- 
+  
 ---
 
 ## The End Result
