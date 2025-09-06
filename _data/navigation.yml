@@ -13,5 +13,4 @@ main:
     children:
       - title: "Agent Smith: The Real AI Agent"
         url: /ai/agentic%20systems/2025/04/12/Agent_smith.html
-      - title: "Vibe coding, anyone?"
-        url: _posts/2025-09-06-vibe-coding-anyone.md
+
