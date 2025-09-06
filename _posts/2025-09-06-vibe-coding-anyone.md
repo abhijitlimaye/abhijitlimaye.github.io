@@ -6,7 +6,6 @@ categories: [development, coding, AI]
 tags: [vibe coding, chatGPT, flutter, productivity]
 ---
 
-# Vibe Coding, Anyone?
 
 If you can’t code yourself, you won’t get too far with vibe coding!
 
