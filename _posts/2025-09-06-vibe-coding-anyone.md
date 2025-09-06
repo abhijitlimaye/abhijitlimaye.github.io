@@ -113,7 +113,8 @@ But it got me to a good working state.
 - ❓  I still don’t fully understand how Flutter code works, but I find the parts around **Scaffold** and **Build**, required for UI rendering, to be tedious and very fragile for code changes. Especially the Java/Flutter syntax — all those brackets (round, curly, square) are an eyesore for someone used to C/C++.
 
 - Same goes for commas and semicolons. I still can’t tell where and how these are used in Flutter code 🙁  
--  As for the code structure — the less I talk, the better. It completely hits my sense of *code aesthetics*, if you know what I mean!
+- As for the code structure — the less I talk, the better. It completely hits my sense of *code aesthetics*, if you know what I mean!
+- 
 ---
 
 ## The End Result
