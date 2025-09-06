@@ -4,4 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-This is the about page
+I write about Technology, Cybersecurity and any topic that interests me.
+
+Find me on LinkedIn here:  https://www.linkedin.com/in/abhijitlimaye/
+
