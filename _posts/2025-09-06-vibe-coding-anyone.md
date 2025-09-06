@@ -121,9 +121,10 @@ But it got me to a good working state.
 
 A fully functional task app with these features:
 
-- Add new tasks  
+- Add new tasks
+- All tasks saved to a sqlite DB
 - Home screen toggle: Card view ↔ List view  
-- Filters: hide completed / show today’s tasks  
+- Filters: Hide completed / show today’s tasks  
 - Contacts picker to assign tasks to people  
 - Share a task via Android’s standard share popup  
 - App lock for added security  
