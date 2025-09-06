@@ -104,17 +104,14 @@ But it got me to a good working state.
 
 ## Most Frustrating Parts
 
-- Fixing compile and runtime errors  
-- Debugging a **Contacts-picker crash**:  
-  - Connected my phone via USB  
-  - Enabled USB debugging  
-  - Ran a debug build  
-  - Captured crash logs with ADB  
-  - Gemini finally pinpointed the issue  
 
-- Flutter UI code (Scaffold, Build methods) felt **tedious and fragile**  
-- Syntax quirks: brackets everywhere, commas/semicolons unclear (coming from C/C++)  
-- Code aesthetics — often painful for someone who likes clean structure
+- Fixing the compile and run-time errors was painful.  
+- A Contacts-picker crash tested my patience the most. Finally, as per Gemini’s suggestion, I connected my phone using USB to my laptop, turned USB debug on, ran a debug build on the phone, and captured crash logs using the ADB tool. After a couple of attempts, Gemini correctly pointed out the issue, and that finally fixed the crash!
+
+- I still don’t fully understand how Flutter code works, but I find the parts around **Scaffold** and **Build**, required for UI rendering, to be tedious and very fragile for code changes. Especially the Java/Flutter syntax — all those brackets (round, curly, square) are an eyesore for someone used to C/C++.
+
+- Same goes for commas and semicolons. I still can’t tell where and how these are used in Flutter code 🙁  
+- As for the code structure — the less I talk, the better. It completely hits my sense of *code aesthetics*, if you know what I mean!
 
 ---
 
