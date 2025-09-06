@@ -77,8 +77,8 @@ With the Flutter extension in VS Code, creating a new app gives you boilerplate 
 ### First Steps
 
 I described my feature set to ChatGPT.  
-It gave clear instructions on files, folder hierarchy, and key configs (`pubspec.yaml`, `AndroidManifest.xml`).  
-Of interest for someone who is not initiated into the flutter app dev, pubspec.yaml and AndroidManifest.xml play an important role.
+It gave clear instructions on files, folder hierarchy, and key configs.   
+Of interest for someone who is not initiated into the flutter app dev, (`pubspec.yaml`, `AndroidManifest.xml`). play an important role.
 So far so good, the app was built and I could test it out on the local emulator I installed during the setup phase. 
 
 
